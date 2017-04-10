@@ -1,4 +1,3 @@
-def cube(num):
+def cube(num) :
     return num*num*num
-
-print(cube(23))
+print(cube(45))
