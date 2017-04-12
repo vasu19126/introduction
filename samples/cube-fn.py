@@ -1,3 +1,4 @@
 def cube(num) :
     return num*num*num
-print(cube(45))
+num=int(input("type any no. "))
+print(cube(num))
